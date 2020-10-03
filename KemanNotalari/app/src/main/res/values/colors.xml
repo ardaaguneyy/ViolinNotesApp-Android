@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="emailtextcolor">#FFFFFF</color>
+    <color name="backgroundcolor">#BCD0FAFF</color>
+    <color name = "denemecolor">#8E2E2E</color>
+</resources>

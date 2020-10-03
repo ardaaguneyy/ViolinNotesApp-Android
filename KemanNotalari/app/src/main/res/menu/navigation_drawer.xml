@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+
+    <item android:title="Ayarlar">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="Yardım" />
+            <item
+                android:id="@+id/nav_change_password"
+                android:icon="@android:drawable/ic_popup_sync"
+                android:title="Şifremi Değiştir" />
+            <item
+                android:id="@+id/nav_log_out"
+                android:icon="@android:drawable/btn_dialog"
+                android:title="Oturumu Kapat" />
+        </menu>
+    </item>
+    </group>
+
+</menu>

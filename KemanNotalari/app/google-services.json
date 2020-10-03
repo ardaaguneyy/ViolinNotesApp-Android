@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473773838175",
+    "firebase_url": "https://violinnotes-98f2a.firebaseio.com",
+    "project_id": "violinnotes-98f2a",
+    "storage_bucket": "violinnotes-98f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473773838175:android:33c79082d8e4ce4a14f0ea",
+        "android_client_info": {
+          "package_name": "com.example.kemannotalari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473773838175-jgrost7cgi7pgnm2rt5cfo2tjh5flifk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1iVNPxEx7ZSnyiFNzM2K7xQpPv0oo1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473773838175-jgrost7cgi7pgnm2rt5cfo2tjh5flifk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
